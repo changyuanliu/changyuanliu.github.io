@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Resume - ChangYuan Liu"
+date:   2024-08-14 21:56:18 -0400
+categories: Personal
+---
+
+**Summary**
+-	Seasoned professional with extensive experience in R&D, engineering, and service with entrepreneurial experience.
+-	Effective communicator with a proven track record of conceptualizing and delivering complex projects. 
+-	Proficient in Python, MATLAB/Simulink, Java, C#, C/C++, SQL, and Git. 
+-	Holds master’s degrees in Control Science and Engineering, Business Administration, and Computer Science. 
+
+
+**Profesional Experience**
+- **ABB&nbsp;&nbsp;&nbsp;&nbsp;01/2013 - Present**
+  - *Advanced Analytics and Control Architect&nbsp;&nbsp;&nbsp;&nbsp;09/2018 – Present&nbsp;&nbsp;&nbsp;&nbsp;Westerville, Ohio, USA*<br>
+    - Lead the development and prototyping of machine learning-driven analytics solutions for process optimization and virtual measurements (soft sensors) in process industries.<br>
+    - Develop and deliver Model Predictive Control (MPC) solutions for process industries.<br>
+    - Develop and deliver ABB Manufacturing Execution Systems (MES) for process industries, with a focus on designing and implementing robust interfaces between MES and various control systems.<br>
+  - *Regional Technical Advisor&nbsp;&nbsp;&nbsp;&nbsp;10/2015 – 08/2018&nbsp;&nbsp;&nbsp;&nbsp;Westerville, Ohio, USA*<br>
+    - Provided advanced control tuning and optimization consulting services to ABB's customers.<br>
+    - Acted as the control expert to ensure successful implementation, deployment, and training of new multivariable control solutions for global customers. <br>
+  - *Senior R&D Control Engineer&nbsp;&nbsp;&nbsp;&nbsp;01/2013 – 10/2015&nbsp;&nbsp;&nbsp;&nbsp;Shanghai, China*<br>
+    - Collaborated with global R&D team to develop signal processing techniques and innovative control features for the next generation of Quality Control Systems (QCS) and implement Advanced Process Control (APC) solution for improving the wet-end control performance of paper machines.<br>
+    - Developed software applications aimed at enhancing sensor accuracy, diagnosing deflection of scanner frames, and identifying process control models.
+
+- **Shanghai Victory Control Ltd. (Startup)&nbsp;&nbsp;&nbsp;&nbsp;06/2007 - 12/2012**
+  - *Technology Manager / Co-founder&nbsp;&nbsp;&nbsp;&nbsp;06/2007 – 12/2012&nbsp;&nbsp;&nbsp;&nbsp;Shanghai, China*<br>
+    - Led the development and delivery of Model Predictive Control (MPC) solutions for diverse process industries, including energy, glass, cement, and petrochemicals.<br>
+    - Managed the intellectual property and research funding applications, ensuring the company received High-Tech Enterprise certification, National Innovation Fund for Technology-Based Firms, and National High Technology Research and Development Program. 
+
+**Education**
+- M.Sc., Computer Science, *Georgia Institue of Technology*
+- Master of Business Administration (MBA), *The Ohio State University*
+- M.Sc., Control Science and Engineering, *University of Science and Technology of China*
+- B.Sc., Automatic Control, *University of Science and Technology of China*
+
+**Patents**
+- **C. Liu**, D. Stanley, and A. Steiger, “Online frequently derived measurements for process monitoring, control and optimization.” PCT/IB2021/059520, Filed October 15, 2021
+- S. Chen, M. Butynski, **C. Liu**, D. Stanley, and J. Schroeder, “Control of papermaking processes with respect to square point conditions.” PCT/US2021/027589, Filed April 16, 2021
+- S. Chen, **C. Liu**, and A. Hellstrom, “Method for detecting a deflection, scanning apparatus, and use of a blocking device for detecting a deflection.” PCT/EP2017/074445, Granted March 10, 2020
+
+
+
+
+
+
+
+
+
