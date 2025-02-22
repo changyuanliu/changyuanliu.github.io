@@ -37,7 +37,7 @@ categories: Personal
 - B.Sc., Automatic Control, *University of Science and Technology of China*
 
 **Patents**
-- **C. Liu**, D. Stanley, and A. Steiger, “Online frequently derived measurements for process monitoring, control and optimization.” PCT/IB2021/059520, Filed October 15, 2021
+- **C. Liu**, D. Stanley, and A. Steiger, “Online frequently derived measurements for process monitoring, control and optimization.” PCT/IB2021/059520, Granted October 15, 2024
 - S. Chen, M. Butynski, **C. Liu**, D. Stanley, and J. Schroeder, “Control of papermaking processes with respect to square point conditions.” PCT/US2021/027589, Filed April 16, 2021
 - S. Chen, **C. Liu**, and A. Hellstrom, “Method for detecting a deflection, scanning apparatus, and use of a blocking device for detecting a deflection.” PCT/EP2017/074445, Granted March 10, 2020
 
