@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Resume - ChangYuan Liu"
-date:   2024-08-14 21:56:18 -0400
+date:   2025-02-22 06:56:18 -0400
 categories: Personal
 ---
 
